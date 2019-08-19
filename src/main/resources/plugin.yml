@@ -1,0 +1,14 @@
+main: com.evangunawan.utils.Main
+name: Utils
+version: 1
+author: motionfrog
+description: Utils plugin for NixNetwork.
+api-version: 1.13
+commands:
+  tprandom:
+    description: Teleports to random position
+    usage: "§6/tprandom [player]"
+permissions:
+  utils.tprandom:
+    description: use command.
+    default: op
