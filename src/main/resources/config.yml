@@ -1,0 +1,5 @@
+web-connections:
+  debug: true
+  route-url: localhost/hello.php
+  data-params: player_count
+  post-interval: 30
